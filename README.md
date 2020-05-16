@@ -1,1 +1,1 @@
-# Reinforcement-Learning---Walker2d-with-stairs-PPO
+# Reinforcement Learning Walker2d with stairs PPO
